@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name": "Medradio",
+        "streamUrl": "https://medradio.ice.infomaniak.ch/medradio-128.mp3",
+        "imageResource": 1
+    },
+    {
+        "id": 2,
+        "name": "ASWAT",
+        "streamUrl": "https://aswat.ice.infomaniak.ch/aswat-high.mp3",
+        "imageResource": 2
+    },
+    // ... more stations
+]
