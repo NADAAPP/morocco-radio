@@ -1,15 +1,21 @@
 [
     {
         "id": 1,
-        "name": "Medradio",
+        "name": "medradio",
         "streamUrl": "https://medradio.ice.infomaniak.ch/medradio-128.mp3",
-        "imageResource": 1
+        "drawableName": "medradio"
     },
     {
         "id": 2,
-        "name": "ASWAT",
-        "streamUrl": "https://aswat.ice.infomaniak.ch/aswat-high.mp3",
-        "imageResource": 2
+        "name": "medi1",
+        "streamUrl": "https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/chunklist_w891969591.m3u8",
+        "drawableName": "medi1"
     },
-    // ... more stations
+    {
+        "id": 3,
+        "name": "Radio mars",
+        "streamUrl": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+        "drawableName": "mars"
+    }
+    // ... other stations with their exact drawable names
 ]
