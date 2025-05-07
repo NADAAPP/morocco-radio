@@ -1,1 +1,110 @@
-
+[
+    {
+        "id": 1,
+        "name": "medradio",
+        "streamUrl": "https://medradio.ice.infomaniak.ch/medradio-128.mp3",
+        "drawableName": "medradio"
+    },
+    {
+        "id": 2,
+        "name": "ASWAT",
+        "streamUrl": "https://aswat.ice.infomaniak.ch/aswat-high.mp3",
+        "drawableName": "aswat"
+    },
+    {
+        "id": 3,
+        "name": "CHADA FM",
+        "streamUrl": "https://stream.bodkas.com/playlist?id=chadafmradio",
+        "drawableName": "chada"
+    },
+    {
+        "id": 4,
+        "name": "MEDI1",
+        "streamUrl": "https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/chunklist_w891969591.m3u8",
+        "drawableName": "medi1"
+    },
+    {
+        "id": 5,
+        "name": "MFM",
+        "streamUrl": "https://a5.asurahosting.com:7980/radio.mp3",
+        "drawableName": "mfm"
+    },
+    {
+        "id": 6,
+        "name": "RADIO 2M",
+        "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/radio_2m/radio_hls_ts_hy217612tge1f21j83/radio_2m-mp4a_130400=1.m3u8",
+        "drawableName": "towm"
+    },
+    {
+        "id": 7,
+        "name": "SAWA",
+        "streamUrl": "https://cf-hls-media.sndcdn.com/playlist/78HoJVi14AFe.128.mp3/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLWhscy1tZWRpYS5zbmRjZG4uY29tL3BsYXlsaXN0Lzc4SG9KVmkxNEFGZS4xMjgubXAzL3BsYXlsaXN0Lm0zdTgqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2NjE3ODIyfX19XX0_&Signature=MJj7bVQJ0~Kwn~abAws5Top4BqMGAXksplILntrwWGsDk9Ozzi9U9cZcD81nbEXPJH6ALUWveUvEQpEpnZCRvuu9zZ8Ztabm--GwyL6LuYAwBbdKmvnkHVEE28gkncakM235wovXXqJq4i2mSk9x0rLLsbZ63MQsHky8aaehjuJ0F8tZ3k9daGQD8MbaWwG2d4jcuIWEK5b90vZIOy7mObdZQ1F4Yc0Tp7Y6woxnX3sMjRN5cdGknHRpFVHm24ATdkw6PZjiQ6SYRaJPOxGs0WNpXykjz21ILVewZAH-0Xpx1WsWNNat9g9HgYtBljan4vfd~tcDEtba5uoJ8AWT8w__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ",
+        "drawableName": "sawa"
+    },
+    {
+        "id": 8,
+        "name": "CAP RADIO",
+        "streamUrl": "https://listen.radioking.com/radio/710810/stream/776366",
+        "drawableName": "capradio"
+    },
+    {
+        "id": 9,
+        "name": "ATLANTIC",
+        "streamUrl": "https://atlantic-sonic.nindohost.net:9300/stream",
+        "drawableName": "atlantic"
+    },
+    {
+        "id": 10,
+        "name": "URADIO",
+        "streamUrl": "https://uradio-aac.ice.infomaniak.ch/uradio.aac",
+        "drawableName": "uradio"
+    },
+    {
+        "id": 11,
+        "name": "اذاعة القرآن الكريم",
+        "streamUrl": "http://s2.voscast.com:12312/;",
+        "drawableName": "quran"
+    },
+    {
+        "id": 12,
+        "name": "IZLANZIK",
+        "streamUrl": "https://izlan.fr/radios/atlas/stream",
+        "drawableName": "uradio"
+    },
+    {
+        "id": 13,
+        "name": "AL AMAZIGHIA",
+        "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_amazigh/chunks.m3u8",
+        "drawableName": "amazighia"
+    },
+    {
+        "id": 14,
+        "name": "RADIO MARS",
+        "streamUrl": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+        "drawableName": "mars"
+    },
+    {
+        "id": 15,
+        "name": "EDINA FM",
+        "streamUrl": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+        "drawableName": "medina"
+    },
+    {
+        "id": 16,
+        "name": "HIT RADIO",
+        "streamUrl": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+        "drawableName": "hitradio"
+    },
+    {
+        "id": 17,
+        "name": "ASSADISSA",
+        "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_med_VI/chunks.m3u8",
+        "drawableName": "assadissa"
+    },
+    {
+        "id": 18,
+        "name": "AL WATANIA",
+        "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_nationale/chunks.m3u8",
+        "drawableName": "alwatania"
+    }
+]
