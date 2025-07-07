@@ -74,7 +74,7 @@
     {
         "id": 13,
         "name": "AL AMAZIGHIA",
-        "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_amazigh/chunks.m3u8",
+        "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_amazigh/chunks.m3u8?token=_9uUwos8pWd1NHORTilW7l36J8qNoy1Lmymjk_K6Hdg&expires=1751924257&token_path=%2Flive%2Fradio_amazigh",
         "drawableName": "amazighia"
     },
     {
@@ -98,7 +98,7 @@
     {
         "id": 17,
         "name": "ASSADISSA",
-        "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_med_VI/chunks.m3u8",
+        "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_med_VI/chunks.m3u8?token=cfb69OGDaQ-jPHzODPchXSmGwvfI7ukSXKnHKG9jORM&expires=1751924365&token_path=%2Flive%2Fradio_med_VI",
         "drawableName": "assadissa"
     },
     {
