@@ -43,6 +43,11 @@
     "name": "ATLANTIC",
     "streamUrl": "https://atlantic-sonic.nindohost.net:9300/stream",
     "favicon": "https://i.ibb.co/kg4bQjHQ/atlantic.png"
+  }, 
+  {
+    "name": "ATLANTIC",
+    "streamUrl": "https://atlantic-sonic.nindohost.net:9300/stream",
+    "favicon": "https://i.ibb.co/kg4bQjHQ/atlantic.png"
   },
   {
     "name": "URADIO",
@@ -73,6 +78,11 @@
     "name": "MEDINA FM",
     "streamUrl": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
     "favicon": "https://i.ibb.co/FkV292xm/medina.png"
+  },
+  {
+    "name": "RADIO MARS",
+    "streamUrl": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+    "favicon": "https://i.ibb.co/Xf9qsQR5/mars.png"
   },
   {
     "name": "HIT RADIO",
