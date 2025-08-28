@@ -22,12 +22,12 @@
   {
     "name": "MFM",
     "streamUrl": "https://a5.asurahosting.com:7980/radio.mp3",
-    "favicon": ""
+    "favicon": "https://i.ibb.co/hFzV3tLX/mfm.png"
   },
   {
     "name": "RADIO 2M",
     "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/radio_2m/radio_hls_ts_hy217612tge1f21j83/radio_2m-mp4a_130400=1.m3u8",
-    "favicon": "https://i.ibb.co/hFzV3tLX/mfm.png"
+    "favicon": "https://i.ibb.co/d0kbP9P0/towm.png"
   },
   {
     "name": "SAWA",
