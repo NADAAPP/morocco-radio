@@ -45,11 +45,6 @@
     "favicon": "https://i.ibb.co/kg4bQjHQ/atlantic.png"
   }, 
   {
-    "name": "ATLANTIC",
-    "streamUrl": "https://atlantic-sonic.nindohost.net:9300/stream",
-    "favicon": "https://i.ibb.co/kg4bQjHQ/atlantic.png"
-  },
-  {
     "name": "URADIO",
     "streamUrl": "https://uradio-aac.ice.infomaniak.ch/uradio.aac",
     "favicon": "https://i.ibb.co/Dfr30ty3/uradio.png"
@@ -63,11 +58,6 @@
     "name": "IZLANZIK",
     "streamUrl": "https://izlan.fr/radios/atlas/stream",
     "favicon": "https://i.ibb.co/yFsxK1DM/izlanzik.png"
-  },
-  {
-    "name": "AL AMAZIGHIA",
-    "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_amazigh/chunks.m3u8?token=_9uUwos8pWd1NHORTilW7l36J8qNoy1Lmymjk_K6Hdg&expires=1751924257&token_path=%2Flive%2Fradio_amazigh",
-    "favicon": "https://i.ibb.co/j9RZcxvy/amazighia.png"
   },
   {
     "name": "RADIO MARS",
@@ -88,15 +78,6 @@
     "name": "HIT RADIO",
     "streamUrl": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
     "favicon": "https://i.ibb.co/dsrfDs5X/hitradio.png"
-  },
-  {
-    "name": "ASSADISSA",
-    "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_med_VI/chunks.m3u8?token=cfb69OGDaQ-jPHzODPchXSmGwvfI7ukSXKnHKG9jORM&expires=1751924365&token_path=%2Flive%2Fradio_med_VI",
-    "favicon": "https://i.ibb.co/YH5SkmW/assadissa.png"
-  },
-  {
-    "name": "AL WATANIA",
-    "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_nationale/chunks.m3u8",
-    "favicon": "https://i.ibb.co/TMMrTTfW/alwatania.png"
   }
+  
 ]
