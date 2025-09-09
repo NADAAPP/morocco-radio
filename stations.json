@@ -2,32 +2,32 @@
   {
     "name": "medradio",
     "streamUrl": "https://medradio.ice.infomaniak.ch/medradio-128.mp3",
-    "favicon": "https://i.ibb.co/PB42NHQ/medradio.png"
+    "favicon": "https://i.ibb.co/n8wYNyFM/med-radio-54170925.png
   },
   {
     "name": "ASWAT",
     "streamUrl": "https://aswat.ice.infomaniak.ch/aswat-high.mp3",
-    "favicon": "https://i.ibb.co/Mk4Yms5n/aswat.png"
+    "favicon": "https://i.ibb.co/bjF9Bybk/k-QHm-Myte-Zb.png"
   },
   {
     "name": "CHADA FM",
     "streamUrl": "https://stream.bodkas.com/playlist?id=chadafmradio",
-    "favicon": "https://i.ibb.co/qMRV0QLc/chada.png"
+    "favicon": "https://i.ibb.co/LzbkvwBJ/chada-fm-shd-fm-88b31124.png"
   },
   {
     "name": "MEDI1",
     "streamUrl": "https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/chunklist_w891969591.m3u8",
-    "favicon": "https://i.ibb.co/LBW8MgX/medi1.png"
+    "favicon": "https://i.ibb.co/DgQ23t19/eerx9j2btzuf.png"
   },
   {
     "name": "MFM",
     "streamUrl": "https://a5.asurahosting.com:7980/radio.mp3",
-    "favicon": "https://i.ibb.co/hFzV3tLX/mfm.png"
+    "favicon": "https://i.ibb.co/Z6pg2bpr/mfm-radio-mfm-rdyw-9fbb148a.png"
   },
   {
     "name": "RADIO 2M",
     "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/radio_2m/radio_hls_ts_hy217612tge1f21j83/radio_2m-mp4a_130400=1.m3u8",
-    "favicon": "https://i.ibb.co/d0kbP9P0/towm.png"
+    "favicon": "https://i.ibb.co/Qj1H6c1L/radio-2m-rdyw-2-m-2325023c.png"
   },
   {
     "name": "SAWA",
@@ -37,17 +37,17 @@
   {
     "name": "CAP RADIO",
     "streamUrl": "https://listen.radioking.com/radio/710810/stream/776366",
-    "favicon": "https://i.ibb.co/kVpxP2QV/capradio.png"
+    "favicon": "https://i.ibb.co/5y4S6RS/cap-radio-kb-rdyw-413c2b73.png"
   },
   {
     "name": "ATLANTIC",
     "streamUrl": "https://atlantic-sonic.nindohost.net:9300/stream",
-    "favicon": "https://i.ibb.co/kg4bQjHQ/atlantic.png"
+    "favicon": "https://i.ibb.co/pjxczNK4/atlantic-radio-tlntyk-rdyw-a42d5bdb.png"
   }, 
   {
     "name": "URADIO",
     "streamUrl": "https://uradio-aac.ice.infomaniak.ch/uradio.aac",
-    "favicon": "https://i.ibb.co/Dfr30ty3/uradio.png"
+    "favicon": "https://i.ibb.co/JwdMH61B/u-radio2-f7b44946.png"
   },
   {
     "name": "اذاعة القرآن الكريم",
@@ -77,7 +77,17 @@
   {
     "name": "HIT RADIO",
     "streamUrl": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
-    "favicon": "https://i.ibb.co/dsrfDs5X/hitradio.png"
+    "favicon": "https://i.ibb.co/NnWypCXL/QrFnnu.jpg"
+  },
+    {
+    "name": "MEDINA FM",
+    "streamUrl": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+    "favicon": "https://i.ibb.co/HffyR2pp/a2z-Anu-Uz-NF.png"
+  },
+   {
+    "name": "Medi 1 Andalouse",
+    "streamUrl": "https://live.medi1.com/Andalouse",
+    "favicon": "https://i.ibb.co/0RZvvns5/nn9ycvnpn7uz.jpg"
   }
   
 ]
